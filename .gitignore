@@ -1,0 +1,13 @@
+/target/classes/Application.class
+/target/surefire-reports/Test_Application.txt
+/target/test-classes/Test_Application.class
+/target/surefire-reports/TEST-Test_Application.xml
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/.idea/jarRepositories.xml
+/target/maven-archiver/pom.properties
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/uiDesigner.xml
+/target/MavenDemoSept2020-1.0-SNAPSHOT.jar
